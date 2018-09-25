@@ -1,3 +1,7 @@
 .webform-component-civicrm_contact {
   margin-bottom: 15px;
 }
+
+.breadcrumb {
+  display: none;
+}
